@@ -1,8 +1,8 @@
 # HSMZ Thesis Template
 
-Dieses Repository enthält eine LaTeX-Vorlage, die für Exposés, Hausarbeiten und Abschlussarbeiten an der Hochschule Mainz genutzt werden kann. Die Vorlage erfüllt alle formalen Anforderungen, die im [Leitfaden der HS Mainz zur Anfertigung wissenschaftlicher Arbeiten (2020)](https://www.hs-mainz.de/studium/services/wirtschaft/pruefungsmanagement/downloads/) gelistet werden. 
+Dieses Repository enthält eine LaTeX-Vorlage, die für Exposés, Hausarbeiten und Abschlussarbeiten an der Hochschule Mainz genutzt werden kann. Die Vorlage erfüllt die formalen Anforderungen, die im [Leitfaden der HS Mainz zur Anfertigung wissenschaftlicher Arbeiten (2024)](https://www.hs-mainz.de/fileadmin/Wirtschaft/Services/Pruefungsamt/pdf/Downloads/leitfaden/Leitfaden_wissenschaftlicher_Arbeiten_Deutsch.pdf) gelistet werden. 
 
-Entstanden ist diese Vorlage im Rahmen meiner eigenen Bachelorarbeit und soll nun anderen Studierenden Zeit sparen und die Nutzung von LaTeX vereinfachen. Beispiele von fertigen Dokumenten, die meine Vorlage verwenden, bieten die folgenden Repositories:
+Diese Vorlage ist im Rahmen meiner eigenen Bachelorarbeit entstanden und soll nun anderen Studierenden Zeit sparen und die Nutzung von LaTeX vereinfachen. Beispiele von fertigen Dokumenten, die meine Vorlage verwenden, bieten die folgenden Repositories:
 
 - [ThesisHSMZ-RLTicTacToe-Expose](https://github.com/JonasBingel/ThesisHSMZ-RLTicTacToe-Expose) Repository des Exposé zu meiner Bachelorarbeit
 - [ThesisHSMZ-RLTicTacToe](https://github.com/JonasBingel/ThesisHSMZ-RLTicTacToe) Repository meiner Bachelorarbeit
@@ -53,7 +53,7 @@ Einen guten Einstieg in LaTeX bietet beispielsweise dieses [Tutorial von Overlea
 
 ## Struktur der Vorlage
 
-Dieser Abschnitt bietet einen Überblick der Struktur der Vorlage und erklärt den Zweck der einzelnen Dateien. In den Dateien selbst ist jeweils ein Kommentar enthalten, der konkretere Informationen und Hinweise bietet.
+Dieser Abschnitt bietet einen Überblick über die Struktur der Vorlage und erklärt den Zweck der einzelnen Dateien. In den Dateien selbst ist jeweils ein Kommentar enthalten, der konkretere Informationen und Hinweise bietet.
 
 `Expose.tex` Haupdatei für ein Expose, die dem LaTeX-Kompiler übergeben wird
 
@@ -91,14 +91,7 @@ Verzeichnis `04_Artefakte` enthält alle Artefakte, die in der Arbeit verwendet 
 
 Die Nutzung der Vorlage ist und bleibt vollkommen kostenfrei.
 
-Im PDF-Export eurer Arbeit mus selbstverständlich nicht auf diese Voralge verwiesen werden. Meine Bitte ist jedoch in eurem LaTeX-Quellcode auf diese Vorlage zu verweisen, sodass andere sie ebenfalls nutzen können.
-
-In jedem Fall würde ich mich jedoch sehr freuen, wenn
-
-- ihr diesem Repository einen ⭐ gebt und
-- ein Issue öffnet mit dem Label `Use-Case` und kurz beschreibt wofür ihr die Vorlage genutzt habt bzw. worum es in eurer Arbeit geht! Falls ihr eure Arbeit  veröffentlicht habt, könnt ihr sie gerne verlinken.
-
-Wer mich unterstützen möchte, kann mir auch gerne einen [virtuellen Kaffe ausgeben](https://ko-fi.com/jonasbingel) - dies ist selbstverständlich vollkommen optional! :)
+Im PDF-Export eurer Arbeit muss selbstverständlich nicht auf diese Vorlage verwiesen werden. Meine Bitte ist jedoch in eurem LaTeX-Quellcode auf diese Vorlage zu verweisen, sodass andere sie ebenfalls nutzen können.
 
 ## Verbesserungen
 
@@ -126,5 +119,6 @@ Wenn ihr Overleaf als LaTeX-Editor verwenden möchtet, könnt ihr folgende Anlei
 
 ![Overleaf - Choose File](https://imgur.com/ybWe0rj.png)   
 5. Projekt rekompilieren und losschreiben 🙂
+
 
 
